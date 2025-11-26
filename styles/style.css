@@ -24,7 +24,7 @@
   font-weight: 400;
   font-style: normal;
   font-size: 18px;
-  text-decoration: underline;  
+  text-decoration: underline;
 }
 
 .header__links-list {
@@ -84,7 +84,6 @@
   color: rgba(255, 255, 255, 1);
   font-family: Raleway, sans-serif;
   letter-spacing: 0.3em;
-  font-weight: 700;
   font-weight: Bold;
   font-size: 100px;
   text-transform: uppercase;
@@ -163,7 +162,6 @@
 
 .lots__heading {
   font-family: Raleway, sans-serif;
-  font-weight: 700;
   font-weight: Bold;
   font-size: 40px;
   line-height: 100%;
@@ -218,7 +216,6 @@
 
 .card__title {
   font-family: Raleway, sans-serif;
-  font-weight: 700;
   font-weight: Bold;
   font-size: 22px;
   line-height: 120%;
@@ -272,7 +269,6 @@
   margin-top: 60px;
   width: 291px;
   font-family: Raleway, sans-serif;
-  font-weight: 700;
   font-weight: Bold;
   font-size: 40px;
   text-transform: uppercase;
@@ -328,7 +324,7 @@
   justify-content: center;
 }
 
-.footer__menu-list{
+.footer__menu-list {
   list-style-type: none;
 }
 
